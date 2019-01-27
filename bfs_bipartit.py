@@ -5,8 +5,6 @@
 V = ['CGN','FRA','KEL','MUC','PAD','SXF','STR','TGL']
 # airports are referred to by their index in the list
 E = [[1,4],[0,3,6],[6],[2],[2],[7],[1],[5]]
-#hopefully a bipartite G:
-#E=[[1],[2],[3],[4],[5],[6],[7],[0]]
 start = 'KEL'
 
 #we assume start is a string
